@@ -51,11 +51,11 @@
 
 .btn-whatsapp{
   position:fixed; 
-  right:10px; 
-  bottom:10px; 
+  right:70px; 
+  bottom:30px; 
   transform: translate(-50%, -50%);  
   background-color:rgb(37, 211, 102); 
-  width:50px; height:50px; 
+  width:60px; height:60px; 
   text-align:center; 
   line-height:18px; 
   font-size:1.8em; 
@@ -91,11 +91,11 @@
 @media (min-width: 1400px) {
   .btn-whatsapp{
     position:fixed; 
-    right:10px; 
-    bottom:10px; 
+    right:5px; 
+    bottom:5px; 
     transform: translate(-50%, -50%);  
     background-color:rgb(37, 211, 102); 
-    width:50px; height:50px; 
+    width:30px; height:30px; 
     text-align:center; 
     line-height:18px; 
     font-size:1.8em; 
