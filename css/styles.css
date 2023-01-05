@@ -51,11 +51,11 @@
 
 .btn-whatsapp{
   position:fixed; 
-  right:75px; 
-  bottom:30px; 
+  right:10px; 
+  bottom:10px; 
   transform: translate(-50%, -50%);  
   background-color:rgb(37, 211, 102); 
-  width:60px; height:60px; 
+  width:50px; height:50px; 
   text-align:center; 
   line-height:18px; 
   font-size:1.8em; 
@@ -88,14 +88,14 @@
    100% { transform: scale(1.2); opacity:0; }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 920px) {
   .btn-whatsapp{
     position:fixed; 
-    right:2px; 
-    bottom:2px; 
+    right:10px; 
+    bottom:10px; 
     transform: translate(-50%, -50%);  
     background-color:rgb(37, 211, 102); 
-    width:30px; height:30px; 
+    width:50px; height:50px; 
     text-align:center; 
     line-height:18px; 
     font-size:1.8em; 
