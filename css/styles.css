@@ -113,10 +113,10 @@
       position: absolute;
       border-radius:50%;
       border:1px solid #25d366;
-      left: -10px;
-      right: -10px;
-      bottom: -10px;
-      top: -10px;
+      left: -5px;
+      right: -5px;
+      bottom: -5px;
+      top: -5px;
       animation: animate 1.5s linear infinite;
       opacity:0;
       backface-visibility:hidden;    
