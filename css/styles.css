@@ -49,6 +49,14 @@
   }
 }
 
+/* CUSTOMIZE CARDS
+------------------------- */
+.card-cover {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
 .btn-whatsapp{
   position:fixed; 
   right:10px; 
@@ -81,6 +89,7 @@
     opacity:0;
     backface-visibility:hidden;    
 }
+
 .pulsaDelay:after { animation-delay: .5s; }
 @keyframes animate {
    0%   { transform: scale(0.5); opacity:0; }
