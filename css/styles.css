@@ -49,6 +49,15 @@
   }
 }
 
+/* CUSTOMIZE FORM
+------------------------- */
+.form-contact {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  height: 100%;
+}
+
 /* CUSTOMIZE CARDS
 ------------------------- */
 .card-cover {
